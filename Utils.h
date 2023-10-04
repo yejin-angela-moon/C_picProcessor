@@ -6,7 +6,7 @@
 #include "sod.h"
 
   #define IO_ERROR -1
-  #define MAX_PIXEL_INTENSITY 255.0
+  #define MAX_PIXEL_INTENSITY 255.0 \
 
   // Create a new instance of a sod image of the specified width 
   // and height, using the full RGB colour model.
